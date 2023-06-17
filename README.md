@@ -1,4 +1,4 @@
-# Rating System
+# Galleria
 A fake e-commerce website that fetches data from the [Fake Store API](https://fakestoreapi.com/). This application focuses on ```useState(), useEffect(), useForm(), useParams(), etc.``` 
 for functionality, validation and event handling. 
 
